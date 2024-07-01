@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  memo:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-07-01T13:55:08.218307543+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 3451834c68d9f25bf9a6aeca02606fe47da409e32e432cec59108b87e9decf9d
+    name: memo
+    type: application
+    urls:
+    - memo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-01T13:55:08.215726485+03:00"
